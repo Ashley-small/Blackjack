@@ -15,7 +15,7 @@ h1{
 #message-el{
   font-style: italic;
 }
-#start-button, #reset-button, #draw-button{
+#start-button, #draw-button{
   background: goldenrod;
   width: 150px;
   color: #016f32;
