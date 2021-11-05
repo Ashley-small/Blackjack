@@ -1,0 +1,34 @@
+body{
+background-image: url(images/table.jpg);
+background-size: cover;
+color: #fff;
+text-align: center;
+font-weight:bold;
+font-family: "trebuchet";
+}
+
+h1{
+  color: goldenrod;
+
+}
+#message-el{
+  font-style: italic;
+}
+#start-button, #reset-button, #draw-button{
+  background: goldenrod;
+  width: 150px;
+  color: #016f32;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: auto;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  cursor: pointer;
+
+}
