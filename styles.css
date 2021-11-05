@@ -6,7 +6,8 @@ color: #fff;
 text-align: center;
 font-weight:bold;
 font-family: "trebuchet";
-  height:100vh; 
+height:100vh; 
+overflow-y:hidden; 
 }
 
 h1{
